@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessengerApp</string>
+    <string name="title_activity_receive_message">Receive Message</string>
+    <string name="hint_message">Enter your message</string>
+    <string name="send_button">Send Message</string>
+    <string name="enter_message_hint">Enter your message</string>
+    <string name="send_message_button">Send Message</string>
+
+</resources>
